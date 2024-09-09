@@ -36,10 +36,10 @@ The purpose of this app is to practice on local storage using `get_it` & `get_st
 ### Running the App
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/Basel-75/get_it-Assignment.git
+   git clone https://github.com/Basel-75/Twitter-UI.git
 2. Navigate to the project directory: 
    ```bash
-   cd get_it-Assignment
+   cd Twitter-UI.git
 
 3. Install dependencies: 
    ```bash
